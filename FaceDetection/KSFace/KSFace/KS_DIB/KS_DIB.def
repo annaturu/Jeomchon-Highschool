@@ -1,0 +1,7 @@
+; KS_DIB.def : Declares the module parameters for the DLL.
+
+LIBRARY      "KS_DIB"
+DESCRIPTION  'KS_DIB Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

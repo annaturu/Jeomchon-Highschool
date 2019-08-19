@@ -1,0 +1,46 @@
+/////////////////////////////////////////////////////////////////////////////
+// Graph.h : header file
+/////////////////////////////////////////////////////////////////////////////
+#ifndef __GRAPH_H__
+#define __GRAPH_H__
+/////////////////////////////////////////////////////////////////////////////
+// CGraph window
+/////////////////////////////////////////////////////////////////////////////
+#include "KS_DIB/gfx_dc.h"
+/////////////////////////////////////////////////////////////////////////////
+
+class CGraph : public CStatic
+{
+// Construction
+public:
+	CGraph(int _w, int _h, CWnd* pParent);
+	virtual ~CGraph();
+
+	void	SetData(int num, double minV, double maxV, double* pData);
+
+private:
+	double		m_minV;
+	double		m_maxV;
+	int			m_dataNum;
+	double*		m_data;	
+	gfx_dc*		m_pDC;
+	int			m_w;
+	int			m_h;
+
+public:
+// Overrides
+	// ClassWizard generated virtual function overrides
+	//{{AFX_VIRTUAL(CGraph)
+	//}}AFX_VIRTUAL
+
+protected:
+	//{{AFX_MSG(CGraph)
+	afx_msg void OnPaint();
+	//}}AFX_MSG
+
+	DECLARE_MESSAGE_MAP()
+};
+
+/////////////////////////////////////////////////////////////////////////////
+//{{AFX_INSERT_LOCATION}}
+#endif
