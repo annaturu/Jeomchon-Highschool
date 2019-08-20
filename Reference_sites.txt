@@ -1,0 +1,21 @@
+[라즈베리파이 얼굴인식]
+
+https://jayharvey.tistory.com/4
+
+https://m.blog.naver.com/PostView.nhn?blogId=ljy9378&logNo=221438192568&proxyReferer=https://www.google.com/
+
+https://m.blog.naver.com/zeta0807/221304976623
+
+http://makeshare.org/bbs/board.php?bo_table=raspberrypi&wr_id=485
+
+https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+
+
+
+[Bluetooth 통신 master / slave]
+
+http://www.3demp.com/community/boardDetails.php?cbID=185
+
+https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
+
+http://blog.daum.net/_blog/BlogTypeView.do?blogid=0ZPt7&articleno=2618
