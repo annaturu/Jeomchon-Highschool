@@ -19,3 +19,7 @@ http://www.3demp.com/community/boardDetails.php?cbID=185
 https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
 
 http://blog.daum.net/_blog/BlogTypeView.do?blogid=0ZPt7&articleno=2618
+
+[Jetson Nano 사람 검출}
+https://www.dlology.com/blog/how-to-run-tensorflow-object-detection-model-on-jetson-nano/
+https://jkjung-avt.github.io/tf-trt-on-nano/
