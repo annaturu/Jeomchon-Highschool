@@ -1,4 +1,4 @@
-[라즈베리파이 얼굴인식]
+﻿[라즈베리파이 얼굴인식]
 
 https://jayharvey.tistory.com/4
 
@@ -9,6 +9,17 @@ https://m.blog.naver.com/zeta0807/221304976623
 http://makeshare.org/bbs/board.php?bo_table=raspberrypi&wr_id=485
 
 https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+
+
+https://m.blog.naver.com/PostView.nhn?blogId=ljy9378&logNo=221438192568&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+https://ukayzm.github.io/python-face-recognition/
+https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
+https://www.element14.com/community/community/raspberry-pi/blog/2019/02/11/raspberry-pi-face-recognition
+https://www.instructables.com/id/Real-time-Face-Recognition-an-End-to-end-Project/
+
+
+
 
 
 
