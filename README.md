@@ -23,6 +23,7 @@
 
 1. 실험 결과
    * 결과 1
+   
 |  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
 |:--------|:--------:|--------:|
 |**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
