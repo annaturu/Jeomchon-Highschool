@@ -21,10 +21,19 @@
    * 신호등 - 파란신호등
    <img src="./Experiment_images/Cross_Blue.jpg" width="320">
 
-1. 실험 결과
+1. 실험 결과1
 
 |  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
 |:--------|:--------:|--------:|
 |**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
 |**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
 |**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
+
+
+1. 실험결과 2
+
+|제목|내용|설명|
+|:---|---:|:---:|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
