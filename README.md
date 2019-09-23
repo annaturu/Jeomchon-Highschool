@@ -1,4 +1,4 @@
-# Jeomchon-Highschool
+H1 Jeomchon-Highschool Projector
 점촌고등학교 청소년 미래상상 프로젝터 - 
 횡단보도에서 무단횡단에 의한 사고 방지를 위한 경고 및 알람 시스템.
 1. 횡단보도 신호등이 빨간 색일 경우 사람이 건너가게되면 BlueTooth를 통해서 얼굴인식 시스템이 On됨.
