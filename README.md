@@ -17,4 +17,4 @@
    * 라즈베리파이 참고 사이트: https://www.raspberrypi.org/
    * 네오픽셀 참고 사이트: <https://www.adafruit.com/category/168>
 1.실험 
-   * 신호등 - 파란신호등![Blue Signal](./Jeomchon-Highschool/Experiment_images/)
+   * 신호등 - 파란신호등![Blue Signal](./Jeomchon-Highschool/Experiment_images/Cross_Blue.jpg)
