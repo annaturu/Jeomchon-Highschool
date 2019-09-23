@@ -6,7 +6,7 @@
 3. 1,2회는 본인의 휴대폰으로 문자가 발송(3회시 벌금 부과 내용 포함)되며, 3회가 되었을 경우는 범칙금이 부과된다.
 4. 부품 목록
     - 아두이노 나노, 
-    - Neopixel LED, 
-    - Dot matrix, 
+    * Neopixel LED, 
+    + Dot matrix, 
     - Raspberry pi 3,
     - pi camera
