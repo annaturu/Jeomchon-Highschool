@@ -19,3 +19,9 @@
 1.실험 
    * 신호등 - 파란신호등
    <img src="./Experiment_images/Cross_Blue.jpg" width="320">
+
+1. 실험 결과
+     |    | 밖 | 안 |
+     |----|----|----|
+     | 남 |    |    |
+     | 여 |    |    |
