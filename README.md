@@ -22,3 +22,6 @@
    <img src="./Experiment_images/Cross_Blue.jpg" width="320">
 
 1. 실험 결과
+First Header  | Second Header | Third Header
+:------------ | :-----------: | -----------:
+Left          | Center        | Right
