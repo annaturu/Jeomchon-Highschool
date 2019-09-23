@@ -10,3 +10,5 @@
     + Dot matrix, 
     - Raspberry pi 3,
     - pi camera
+1. 부품구매 사이트
+   * [디바이스마트](http://www.devicemart.co.kr/main/index)
