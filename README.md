@@ -17,4 +17,5 @@
    * 라즈베리파이 참고 사이트: https://www.raspberrypi.org/
    * 네오픽셀 참고 사이트: <https://www.adafruit.com/category/168>
 1.실험 
-   * 신호등 - 파란신호등<img src="./Experiment_images/Cross_Blue.jpg" width="320">
+   * 신호등 - 파란신호등
+   <img src="./Experiment_images/Cross_Blue.jpg" width="320">
