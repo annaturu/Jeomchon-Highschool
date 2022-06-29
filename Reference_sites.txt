@@ -34,3 +34,6 @@ http://blog.daum.net/_blog/BlogTypeView.do?blogid=0ZPt7&articleno=2618
 [Jetson Nano 사람 검출}
 https://www.dlology.com/blog/how-to-run-tensorflow-object-detection-model-on-jetson-nano/
 https://jkjung-avt.github.io/tf-trt-on-nano/
+
+github Address
+  http://github.com/yhyi8400
